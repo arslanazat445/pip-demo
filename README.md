@@ -12,7 +12,7 @@ A minimal Python project demonstrating environment variables, virtual environmen
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pip-demo.git
+git clone https://github.com/arslanazat445/pip-demo.git
 cd pip-demo
 ```
 
