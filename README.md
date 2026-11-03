@@ -50,6 +50,9 @@ Edit `.env` and provide the required values:
 |---|---|
 | APP_NAME | Application name |
 | API_KEY | Application secret key |
+| DATABASE_URL | Database connection URL |
+| OPENAI_API_KEY | OpenAI API key |
+| DEBUG | Debug mode setting |
 
 Never commit your `.env` file or share real API keys.
 
